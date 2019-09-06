@@ -1,3 +1,20 @@
+class Point:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+    def move(self):
+        print("move")
+
+    def draw(self):
+        print("draw")
+
+
+point = Point(10, 30)
+point.x = 333
+print(point.x)
+
+
 class Fruit(object):
     """A class that makes various tasty fruits."""
     def __init__(self, name, color, flavor, poisonous):
