@@ -1,2 +1,2 @@
 # PythonPlayground
-This repo recording some exercise code,some python basics codes.
+This repo recording my learning path of python.
