@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="" />
+    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitigonre" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitigonre" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567861890624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed the Linear Regression project!Yeah!">
+      <created>1567861963439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567861963439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
