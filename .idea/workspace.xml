@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="worspace file auto changed">
+    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_basics_nots/loop_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_exercise_projects/Linear Regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_exercise_projects/Carly's Clippers.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_exercise_projects/Carly's Clippers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Carly's Clippers">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Carly's Clippers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,27 +60,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_exercise_projects/Carly's Clippers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="HEX_RGB_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HelloWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_exercise_projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_exercise_projects/HEX_RGB_converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.Carly's Clippers" />
         <item itemvalue="Python.list comprehension" />
-        <item itemvalue="Python.app" />
         <item itemvalue="Python.class_practise" />
-        <item itemvalue="Python.HEX_RGB_converter" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567825354262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="worspace file auto changed">
+      <created>1567826673276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567826673277</updated>
+    </task>
+    <task id="LOCAL-00005" summary="worspace file auto changed">
+      <created>1567826700895</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567826700895</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
