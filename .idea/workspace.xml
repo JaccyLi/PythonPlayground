@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_basics_nots/loop_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_exercise_projects/Linear Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="steve" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QJOcaXED9BnM5l9g0Oe4meaPep" />
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567826700895</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed the Linear Regression project!Yeah!">
+      <created>1567861890624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567861890624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +257,7 @@
     <MESSAGE value="sys change" />
     <MESSAGE value="add .gitignore file" />
     <MESSAGE value="worspace file auto changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="worspace file auto changed" />
+    <MESSAGE value="Completed the Linear Regression project!Yeah!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Linear Regression project!Yeah!" />
   </component>
 </project>
