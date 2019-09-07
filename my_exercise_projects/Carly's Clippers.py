@@ -25,3 +25,5 @@ print(average_daily_revenue)
 
 cuts_under_30 = [hairstyles[cuts] for cuts in range(len(hairstyles)-1) if new_prices[cuts] < 30]
 print(cuts_under_30)
+
+
