@@ -1,5 +1,5 @@
 /.idea/HelloWorld.iml
-/.idea/workspace.xml
+.workspace.xml
 *.pyc
 
 
