@@ -31,6 +31,6 @@ for record in highlighted_poems_details:
 
 
 def print_fun(titles, poets, dates):
-    return "The poem {titles} was published by {poets} in {dates}.".format(titles = titles, poets = poets, dates = dates)
+    return "The poem {titles} was published by {poets} in {dates}.".format(titles=titles, poets=poets, dates=dates)
 
 print(print_fun(titles[0], poets[0], dates[0]))
