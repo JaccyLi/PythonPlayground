@@ -99,7 +99,7 @@ def word_length_dictionary(words):
 # should print {"a": 1, "": 0}
 
 
-
+# ##### lesson seven
 # Write your frequency_dictionary function here:
 def frequency_dictionary(words):
     dict = {}
@@ -110,7 +110,7 @@ def frequency_dictionary(words):
     return dict
 
 
-# ##### lesson seven
+
 # Uncomment these function calls to test your  function:
 # print(frequency_dictionary(["apple", "apple", "cat", 1]))
 # should print {"apple":2, "cat":1, 1:1}
@@ -132,3 +132,25 @@ def unique_values(my_dictionary):
 # print(unique_values({0:3, 1:3, 4:3, 5:3}))
 # should print 1
 
+
+# ##### lesson nine
+# Write your count_first_letter function here:
+def count_first_letter(names):
+    letters = {}
+    for k in names.keys():
+        first_k = k[0]
+        if first_k not in letters.keys():
+            letters[first_k] = 0
+        letters[first_k] += len(names[k])
+    return letters
+
+
+# Uncomment these function calls to test your  function:
+# print(count_first_letter({"Stark": ["Ned", "Robb", "Sansa"],
+# "Snow" : ["Jon"],
+# "Lannister": ["Jaime", "Cersei", "Tywin"]}))
+# should print {"S": 4, "L": 3}
+# print(count_first_letter({"Stark": ["Ned", "Robb", "Sansa"],
+# "Snow" : ["Jon"],
+# "Sannister": ["Jaime", "Cersei", "Tywin"]}))
+# should print {"S": 7}
