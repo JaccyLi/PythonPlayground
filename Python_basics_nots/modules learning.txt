@@ -1,0 +1,40 @@
+####### add addtional path to let python find specific module
+PYTHONPATH=/foo python game.py
+or
+sys.path.append("/foo")     # This will add the foo directory to the list of paths to look for modules in as well.
+
+
+######## Custom import name
+# game.py
+# import the draw module
+if visual_mode:
+    # in visual mode, we draw using graphics
+    import draw_visual as draw
+else:
+    # in textual mode, we print out text
+    import draw_textual as draw
+
+def main():
+    result = play_game()
+    # this can either be visual or textual depending on visual_mode
+    draw.draw_game(result)
+
+
+######## Use dir() and help() func to familiar with a module
+import urllib
+import turtle
+print(dir(turtle))
+print(help(turtle.Shape))
+
+
+
+######## print an alphabetically sorted list of all functions in the re module, which contain the word find
+import re
+
+# Your code goes here
+find_members = []
+for member in dir(re):
+    if "find" in member:
+        find_members.append(member)
+
+print(sorted(find_members))

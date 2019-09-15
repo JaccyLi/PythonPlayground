@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c597fd-7ca7-4fc6-916d-70211bfaa473" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_basics_nots/python class learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_basics_nots/modules learning.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -377,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568387735780</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="class and object exercise!">
+      <created>1568520035934</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1568520035934</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,6 +418,7 @@
     <MESSAGE value="complete Abruptly Goblins!" />
     <MESSAGE value="complete file handling in python! csv and json files read and write." />
     <MESSAGE value="complete file handling project!" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete file handling project!" />
+    <MESSAGE value="class and object exercise!" />
+    <option name="LAST_COMMIT_MESSAGE" value="class and object exercise!" />
   </component>
 </project>
